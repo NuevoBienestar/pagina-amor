@@ -9,7 +9,7 @@ import { AcercadeComponent } from './acercade/acercade.component';
 import { ServiciosComponent } from './servicios/servicios.component';
 import { ContactoComponent } from './contacto/contacto.component';
 import { PiepaginaComponent } from './piepagina/piepagina.component';
-import { app } from './firebase-config';
+//import { app } from './firebase-config';
 
 @NgModule({
   declarations: [
